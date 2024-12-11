@@ -2,3 +2,6 @@ drive/MyDrive/*.gdoc
 *.gdoc
 .config/
 sample_data/
+drive/
+.config/
+sample_data/
